@@ -1,0 +1,66 @@
+Build a modern, professional single-page website for a digital marketing agency called "DhruvMarkets."
+
+BUSINESS DETAILS:
+- Name: DhruvMarkets
+- Category: Digital Marketing Agency
+- Social proof: 41 reviews, 4.7 star rating (display this prominently, e.g. near the hero section or as a trust badge with star icons)
+- Contact Email: rickyrawat2008@gmail.com
+- Instagram: https://www.instagram.com/rickyrawat18ag/
+
+TECH STACK:
+- React + Tailwind CSS (or plain HTML/CSS/JS if simpler)
+- Fully responsive (mobile, tablet, desktop)
+- Fast-loading, clean code, no placeholder lorem ipsum — use real, relevant marketing copy
+
+DESIGN DIRECTION:
+- Color scheme: Use a modern, trustworthy palette suited to digital marketing/tech — deep navy or indigo (#0F172A or similar) as a primary/background color, paired with a vibrant accent color like electric blue, teal, or violet (#6366F1, #3B82F6, or #8B5CF6) for CTAs and highlights, on a clean white/light-gray (#F8FAFC) base for content sections. Use the accent color sparingly for buttons, links, and highlights to keep it premium, not loud.
+- Typography: A modern sans-serif pairing — e.g. "Poppins" or "Sora" for headings (bold, confident) and "Inter" or "Manrope" for body text (clean, readable). Use clear font-size hierarchy (large bold hero headline, medium section titles, readable body text).
+- Style: Minimal, spacious layout with generous whitespace, rounded corners on cards/buttons (rounded-xl or rounded-2xl), soft shadows for depth, and a professional agency feel similar to top design/marketing studio websites.
+- Animations: Subtle scroll-reveal animations (fade-up/slide-in) on sections as the user scrolls, smooth hover effects on buttons and cards (scale/shadow transitions), a subtle animated gradient or floating shapes in the hero background, and smooth scrolling between sections. Keep animations tasteful and fast (200-400ms transitions), not distracting.
+
+PAGE SECTIONS (single page with smooth-scroll navigation):
+
+1. Navbar (sticky)
+   - Logo/Name "DhruvMarkets"
+   - Nav links: Home, Services, About, Reviews, Contact
+   - CTA button: "Get a Free Consultation"
+
+2. Hero Section
+   - Bold headline about growing businesses through digital marketing
+   - Subheadline explaining what DhruvMarkets does
+   - Two CTAs: "Get Started" and "View Our Work"
+   - Trust badge showing "⭐ 4.7 Rating · 41 Reviews"
+   - Clean background with subtle animated gradient/shapes
+
+3. Services Section
+   - Grid of service cards with icons: Website Design & Development, SEO, Social Media Marketing, Paid Advertising (Google/Meta Ads), Branding & Content, Website Maintenance & Hosting
+   - Each card: icon, title, short 1-2 line description, hover animation
+
+4. Why Choose Us Section
+   - 3-4 value props with icons (e.g. Custom-Built Websites, Data-Driven Strategies, Dedicated Support, Affordable Pricing)
+
+5. Reviews/Testimonials Section
+   - Highlight "4.7★ rating from 41 reviews"
+   - Include 3 sample client testimonial cards (short, realistic, varied names/businesses) with star ratings
+
+6. Process/How We Work Section
+   - Simple 3-4 step timeline (Consultation → Strategy → Design/Build → Launch & Grow)
+
+7. Contact/CTA Section
+   - Heading like "Ready to Grow Your Business Online?"
+   - Contact form (Name, Email, Message) that mails to rickyrawat2008@gmail.com
+   - Direct email link: rickyrawat2008@gmail.com
+   - Instagram button/icon linking to: https://www.instagram.com/rickyrawat18ag/
+
+8. Footer
+   - DhruvMarkets logo/name, short tagline
+   - Quick links
+   - Social icon (Instagram)
+   - Email contact
+   - Copyright line
+
+ADDITIONAL REQUIREMENTS:
+- Add favicon and browser tab title "DhruvMarkets | Digital Marketing Agency"
+- Ensure all buttons and links are functional (mailto: for email, correct Instagram URL)
+- Make sure the site looks premium and trustworthy, not template-y — this is for a real client-facing agency
+- Optimize for fast load and clean, semantic HTML for SEO
